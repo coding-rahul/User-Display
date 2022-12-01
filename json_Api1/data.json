@@ -1,0 +1,40 @@
+{
+  "account": [
+    {
+      "name": "Rohit kr singh",
+      "email": "rs@gmail.com",
+      "number": "1234567890",
+      "id": 5
+    },
+    {
+      "name": "rahul singh",
+      "email": "@gmail.com",
+      "number": 982215678,
+      "id": 6
+    },
+    {
+      "name": "Rakesh",
+      "email": "rk@gmail.com",
+      "number": "987654432",
+      "id": 8
+    },
+    {
+      "name": "Amit ",
+      "email": "ak@gmail.com",
+      "number": "223456789",
+      "id": 9
+    },
+    {
+      "name": "Vishal singh",
+      "email": "vk@gmail.com",
+      "number": "9857630988",
+      "id": 10
+    },
+    {
+      "name": "shivam",
+      "email": "shiv@gmail.com",
+      "number": "983567823",
+      "id": 11
+    }
+  ]
+}
